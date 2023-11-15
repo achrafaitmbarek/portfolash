@@ -27,11 +27,11 @@ export const info = {
         {
 
             emoji: "💻",
-            text: "Front End Engineer At MEDIA EXPERTS"
+            text: "Front End Engineer"
         },
         {
             emoji: '🌎',
-            text: 'Based in the Morocco'
+            text: 'Based in the France'
         },
         {
             emoji: "📧",
