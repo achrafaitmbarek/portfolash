@@ -45,7 +45,7 @@ export const info = {
             label: 'github'
         },
         {
-            link: "https://www.linkedin.com/in/achraf-ait-m-barek-/",
+            link: "www.linkedin.com/in/ashaitmk",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
@@ -115,8 +115,8 @@ export const info = {
         },
         {
             title: "Provetex",
-            live: "https://github.com/achrafaitmbarek/",
-            source: "https://github.com/achrafaitmbarek/",
+            live: "https://github.com/achrafaitmbarek/prprvtx",
+            source: "https://github.com/achrafaitmbarek/prprvtx",
             image: mock7
         },
     ]
