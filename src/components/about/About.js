@@ -12,7 +12,7 @@ export default function About() {
             link: 'https://mediaexperts.ma/'
         },
         {
-            link: 'https://drive.google.com/file/d/1EYvNOiBjqe-ub-l5ZgV6w315vK9UcSKr/view?usp=sharing'
+            link: 'https://drive.google.com/file/d/1Cf4fcnm5_t4qRhDCneWunLCSsCJBFhah/view?usp=sharing'
         }
     ]
     function aboutMeText() {
