@@ -14,7 +14,7 @@ export const info = {
     firstName: "Achraf",
     lastName: "Ait M'Barek",
     initials: "ASH",
-    position: "A Front End Engineer",
+    position: "Aspirant Tech Lead",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`,
     gradient2: `-webkit-linear-gradient(135deg,${colors2})`,
@@ -59,12 +59,12 @@ export const info = {
     skills:
     {
         proficientWith: ['JavaScript', 'React', 'Git', 'Github', 'Material UI', 'HTML5', 'CSS3', 'Sass', 'Tailwind CSS'],
-        exposedTo: ['nodejs', 'python', 'JavaEE']
+        exposedTo: ['NodeJs', 'Python', 'JavaEE','Docker','GitOps']
     }
     ,
     hobbies: [
         {
-            label: 'Playing Guitar',
+            label: 'Playing Flamenco Guitar',
             emoji: '🎸'
         },
         {
