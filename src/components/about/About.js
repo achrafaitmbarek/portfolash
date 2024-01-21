@@ -9,7 +9,7 @@ export default function About() {
     const firstName = info.firstName.toLowerCase()
     const Links = [
         {
-            link: 'https://mediaexperts.ma/'
+            link: ``
         },
         {
             link: 'https://drive.google.com/file/d/1Cf4fcnm5_t4qRhDCneWunLCSsCJBFhah/view?usp=sharing'
@@ -23,7 +23,7 @@ export default function About() {
                 className={Style.green}>(main)</span> $ </span>
                 <p>
                     Hello! I'm Achraf. I'm a Front-end engineer from <a
-                        target={'_blank'} rel={'noreferrer'} href={Links[0].link}>MediaExperts.</a>
+                        target={'_blank'} rel={'noreferrer'} href={Links[0].link}>"In The Last STep To Get An Alternation."</a>
                     My interests are in Front End Engineering, I
                     like to create beautiful and powerful
                     products with delightful user experiences,
