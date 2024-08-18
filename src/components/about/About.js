@@ -31,14 +31,14 @@ export default function About() {
           <p>
             Hello! I'm Achraf. I'm a Front-end engineer from{" "}
             <a target={"_blank"} rel={"noreferrer"} href={Links[0].link}>
-              "ELOKEN"
+              " ELOKEN "
             </a>
             My interests are in Front End Engineering, I like to create
             beautiful and powerful products with delightful user experiences,
             building reusable components that meet specific requirements...
             <br />
-            Stop ! I still don't know if it's "front-end", "frontend, or "front
-            end", and at this point I'm too afraid to ask. <br />
+            Stop ! I still don't know if it's " front-end ", " frontend ", or "
+            front end ", and at this point I'm too afraid to ask. <br />
             <a target={"_blank"} rel={"noreferrer"} href={Links[1].link}>
               Resume.
             </a>
